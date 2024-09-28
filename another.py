@@ -1,6 +1,6 @@
-import funcy
+from funcy import funcyStuff
 
-print(funcyStuff(2,2), " er ikke 4! Det er fisk!!")
+print(funcyStuff(2,2), ", nei! 2 + 2 er fisk!!")
 
 
 
